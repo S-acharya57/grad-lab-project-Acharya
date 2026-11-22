@@ -32,3 +32,8 @@ The initial goal is to understand the characteristics of simulated event streams
 - [ ] Review the fundamentals of event cameras and event-based vision.
 - [ ] Generate and inspect sample event-camera data using v2e.
 - [ ] Develop an initial Python notebook to analyze and visualize simulated event streams.
+
+
+## Next Steps
+
+During the coming week, I plan to generate a small sample of simulated event-camera data using v2e and create visualizations to inspect the resulting event streams.
