@@ -29,8 +29,8 @@ The initial goal is to understand the characteristics of simulated event streams
 
 ## Initial Project Tasks
 
-- [ ] Review the fundamentals of event cameras and event-based vision.
-- [ ] Generate and inspect sample event-camera data using v2e.
+- [x] Review the fundamentals of event cameras and event-based vision.
+- [x] Generate and inspect sample event-camera data using v2e.
 - [ ] Develop an initial Python notebook to analyze and visualize simulated event streams.
 
 
